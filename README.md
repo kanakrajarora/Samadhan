@@ -63,7 +63,7 @@ cd client && npm start  # Runs frontend
 - **Frontend**: HTML, CSS, React.js
 - **Backend**: Node.js, Express.js, Python
 - **Database**: MongoDB
-- **Machine Learning**: Scikit-learn, NLTK, TF-IDF, Logistic Regression
+- **Machine Learning**: Scikit-learn, NLTK, TF-IDF, Logistic Regression, Pandas, NumPy
 
 ---
 
