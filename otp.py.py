@@ -9,8 +9,8 @@ CORS(app)
 # SMTP server configuration
 SMTP_SERVER = "smtp.mailersend.net"
 SMTP_PORT = 587  # TLS port
-SENDER_EMAIL = "MS_7XThyL@trial-o65qngknjrogwr12.mlsender.net"
-PASSWORD = "mssp.gFGHMDr.3yxj6lj28r7gdo2r.A0o6M87"  # Replace with your actual password
+SENDER_EMAIL = "<SMTP EMAIL>"
+PASSWORD = "<SMTP PASSWORD>"  # Replace with your actual password
 
 # In-memory storage for OTP and user emails (For demonstration)
 otp_storage = {}
