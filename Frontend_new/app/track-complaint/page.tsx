@@ -123,16 +123,16 @@ const TrackComplaint: React.FC = () => {
                     <td className="px-6 py-4 whitespace-nowrap">Verified</td>
                   </tr>
                   <tr>
-                    <td className="px-6 py-4 whitespace-nowrap">Department</td>
-                    <td className="px-6 py-4 whitespace-nowrap">Verified</td>
+                    <td className="px-6 py-4 whitespace-nowrap">Department Allocation</td>
+                    <td className="px-6 py-4 whitespace-nowrap">Asssigned</td>
                   </tr>
                   <tr>
-                    <td className="px-6 py-4 whitespace-nowrap">Manpower Department</td>
-                    <td className="px-6 py-4 whitespace-nowrap">Yes</td>
+                    <td className="px-6 py-4 whitespace-nowrap">Handling Authority</td>
+                    <td className="px-6 py-4 whitespace-nowrap">Assigned</td>
                   </tr>
                   <tr>
                     <td className="px-6 py-4 whitespace-nowrap">Final Status</td>
-                    <td className="px-6 py-4 whitespace-nowrap">Resolved</td>
+                    <td className="px-6 py-4 whitespace-nowrap">Closed/td>
                   </tr>
                 </tbody>
               </table>
