@@ -6,6 +6,7 @@ This project classifies citizen grievances into predefined categories using Logi
 ## Features
 - **Text Classification**: Categorizes grievances based on descriptions.
 - **Criticality Detection**: Identifies critical complaints.
+- **Solution Recommendation**: Suggests solution using LLM.
 - **MERN Stack**: React frontend, Express & Node.js backend, MongoDB database.
 - **Machine Learning Models**: Implements Logistic Regression & Naïve Bayes.
 
@@ -63,7 +64,7 @@ cd client && npm start  # Runs frontend
 - **Frontend**: HTML, CSS, React.js
 - **Backend**: Node.js, Express.js, Python
 - **Database**: MongoDB
-- **Machine Learning**: Scikit-learn, NLTK, TF-IDF, Logistic Regression, Pandas, NumPy
+- **Machine Learning**: Scikit-learn, NLTK, TF-IDF, Pandas, NumPy
 
 ---
 
