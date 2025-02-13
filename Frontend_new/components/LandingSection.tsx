@@ -46,7 +46,7 @@ const LandingSection: React.FC = () => {
             whileHover={{ scale: 1.1 }}
           >
             <Image
-              src="/placeholder.svg?height=300&width=300"
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/grievance.jpg-poAh6tF3S7OnOXgS6IvUTAO6s5ArOZ.jpeg"
               alt="Samadhan Logo"
               width={300}
               height={300}
