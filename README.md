@@ -23,8 +23,8 @@ Ensure you have the following installed:
 ### Setup
 #### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/grievance-classification.git
-cd grievance-classification
+git clone https://github.com/your-username/Samadhan-A-Grievance-Redressal-System.git
+cd Samadhan-A-Grievance-Redressal-System
 ```
 
 #### 2. Install Backend Dependencies
@@ -53,8 +53,8 @@ cd client && npm start  # Runs frontend
 ---
 
 ## Usage
-1. File yur complaint on the website.
-2. The system categorizes it into different departments(Police, CM office, PWD, Development Authority, Municipal, etc)
+1. File your complaint on the website.
+2. The system categorizes it into different departments (Police, CM office, PWD, Development Authority, Municipal, etc)
 3. The system categorizes it and labels it as **Critical** or **Non-Critical**.
 4. The system generates a recommended solution for the grievance using LLM.
 5. These are shown to admin for taking action of the complaint.
@@ -64,7 +64,7 @@ cd client && npm start  # Runs frontend
 - **Frontend**: HTML, CSS, React.js
 - **Backend**: Node.js, Express.js, Python
 - **Database**: MongoDB
-- **Machine Learning**: Scikit-learn, NLTK, TF-IDF, Pandas, NumPy
+- **Machine Learning**: Scikit-learn (Logistic Regression and Naïve Bayes), NLTK, TF-IDF, Pandas, NumPy
 
 ---
 

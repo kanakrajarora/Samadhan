@@ -7,11 +7,11 @@ import { motion } from "framer-motion"
 import { ChevronLeftIcon, ChevronRightIcon } from "@heroicons/react/24/outline"
 
 const images = [
-  "/placeholder.svg?height=300&width=300",
-  "/placeholder.svg?height=300&width=300",
-  "/placeholder.svg?height=300&width=300",
-  "/placeholder.svg?height=300&width=300",
-  "/placeholder.svg?height=300&width=300",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/lda-logo-new1-GkbSNxP28OjbaawUvPoegW2Jv6xAic.png",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/images%20(1).jpg-rshrMyzUV4Yy6nrSP94PUedXsXOgXs.jpeg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/images-3UlHuv0kOrF19Q9Li4zAGyljsFQ0xO.png",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/images.jpg-CleJXvCXDxCIndyEjzYPKZzihCFLh8.jpeg",
+  "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/uttar-pradesh-police-logo-FEA57F6C4A-seeklogo.com-ZFFdioC56IVDkOCwUx8u77X30ZcucR.png",
 ]
 
 const Carousel: React.FC = () => {
