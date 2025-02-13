@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
                   "Kavya Agrawal",
                   "Chintakrindi Kumar Kartik",
                   "Kartikey Kushagra",
-                  "Siddarth Tiwari",
+                  "Siddharth Tiwari",
                 ].map((name, index) => (
                   <span key={index} className="mx-2">
                     {name}
