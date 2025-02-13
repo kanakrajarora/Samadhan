@@ -19,7 +19,7 @@ const AboutUs: React.FC = () => {
           <div className="flex flex-col md:flex-row items-center p-8">
             <motion.div className="md:w-1/2 mb-8 md:mb-0" whileHover={{ scale: 1.05 }}>
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/grievance.jpg-poAh6tF3S7OnOXgS6IvUTAO6s5ArOZ.jpeg"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/about-us.jpg-K0CeiIyMhdiHEz0y4QhNQwgto3BQ3r.jpeg"
                 alt="About Us"
                 width={400}
                 height={400}
