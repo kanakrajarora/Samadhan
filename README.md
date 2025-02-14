@@ -10,6 +10,9 @@ This project classifies citizen grievances into predefined categories using Logi
 - **MERN Stack**: React frontend, Express & Node.js backend, MongoDB database.
 - **Machine Learning Models**: Implements Logistic Regression & Naïve Bayes.
 
+## Video Demonstration Link
+**Link**: https://youtu.be/oX_Za19Gp34
+
 ---
 
 ## Installation
