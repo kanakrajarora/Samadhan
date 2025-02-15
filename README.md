@@ -30,27 +30,58 @@ git clone https://github.com/your-username/Samadhan-A-Grievance-Redressal-System
 cd Samadhan-A-Grievance-Redressal-System
 ```
 
-#### 2. Install Backend Dependencies
+#### 2. Install Backend Dependencies (Node.js & Express)
+
+(a) Navigate to the backend directory (inside the frontend folder):
+```sh
+cd frontend/server
+```
+(b) Install dependencies:
 ```sh
 npm install
 ```
-
-#### 3. Install Frontend Dependencies
+(C) Start the Server:
 ```sh
-cd client
-npm install
-cd ..
+node app.js
+```
+
+
+#### 3. Setup MongoDB
+For Ubuntu/Debian-based systems:
+```sh
+sudo apt update
+sudo apt install -y mongodb
+```
+
+For macOS (using Homebrew):
+```sh
+brew tap mongodb/brew
+brew install mongodb-community@6.0
 ```
 
 #### 4. Run MongoDB
 ```sh
-sudo systemctl start mongod
+sudo systemctl start mongod  # For Linux
+brew services start mongodb-community@6.0  # For macOS
 ```
 
-#### 5. Start the Application
+#### 5. Frontend Setup (React.js)
 ```sh
-npm start  # Runs backend  
-cd client && npm start  # Runs frontend
+cd .. # Navigate back to the frontend directory
+npm install # Install dependencies
+npm run dev # Start the frontend
+```
+
+#### 6. Running the Full Application
+Terminal 1: Start the backend
+```sh
+cd frontend/server
+node .\app.js
+```
+Terminal 2: Start the frontend
+```sh
+cd frontend
+npm run dev
 ```
 
 ---
