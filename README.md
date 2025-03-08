@@ -8,7 +8,7 @@ This project classifies citizen grievances into predefined categories using Logi
 - **Criticality Detection**: Identifies critical complaints.
 - **Solution Recommendation**: Suggests solution using LLM.
 - **MERN Stack**: React frontend, Express & Node.js backend, MongoDB database.
-- **Machine Learning Models**: Implements Logistic Regression & Naïve Bayes.
+- **Machine Learning Models**: Implements Logistic Regression & Naïve Bayes..
 
 ## Video Demonstration Link
 **Link**: https://youtu.be/oX_Za19Gp34
