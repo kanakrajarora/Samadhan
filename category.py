@@ -23,7 +23,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 
 # Configure Google Gemini AI
-genai.configure(api_key="AIzaSyBhVmcYdTwmddy6f5N64DQFEfjfeTHjQDI")
+genai.configure(api_key="<your key>")
 
 # Load dataset
 file_path = "C:/Users/Ch_Kumar_Kartik/Coding Resources/Projects/Hackathons/IIIT Lucknow Hackathon/categorized_grievances_dataset.csv"
